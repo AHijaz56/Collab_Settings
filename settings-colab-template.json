@@ -17,9 +17,7 @@
         "gallery"
     ],
     "presets": {
-        "default": "LLaMA-Precise",
-        ".*pygmalion": "NovelAI-Storywriter",
-        ".*RWKV": "Naive"
+        "default": "NovelAI-Storywriter"
     },
     "prompts": {
         "default": "QA",
