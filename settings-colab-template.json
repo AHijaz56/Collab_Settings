@@ -17,7 +17,7 @@
         "gallery"
     ],
     "presets": {
-        "default": "LLaMA-Precise",
+        "default": "LLaMA-Storywriter",
         ".*pygmalion": "NovelAI-Storywriter",
         ".*RWKV": "Naive"
     },
