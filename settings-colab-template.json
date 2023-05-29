@@ -19,7 +19,7 @@
     "presets": {
         "generation_parameters_preset": "NovelAI-Storywriter",
         "default": "NovelAI-Storywriter",
-        ".*pygmalion": "NovelAI-Storywriter"
+        "pygmalion": "NovelAI-Storywriter"
 
     },
     "prompts": {
