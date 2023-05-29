@@ -1,5 +1,5 @@
 {
-    "max_new_tokens": 400,
+    "max_new_tokens": 800,
     "max_new_tokens_min": 1,
     "max_new_tokens_max": 2000,
     "name1": "You",
@@ -17,7 +17,7 @@
         "gallery"
     ],
     "presets": {
-        "default": "NovelAI-Storywriter",
+        "default": "LLaMA-Precise",
         ".*pygmalion": "NovelAI-Storywriter",
         ".*RWKV": "Naive"
     },
