@@ -17,7 +17,7 @@
         "gallery"
     ],
     "presets": {
-        "default": "NovelAI-Storywriter"
+        "default": "NovelAI-Storywriter",
         ".*pygmalion": "NovelAI-Storywriter"
 
     },
