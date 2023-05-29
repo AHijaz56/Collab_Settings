@@ -18,6 +18,8 @@
     ],
     "presets": {
         "default": "NovelAI-Storywriter",
+        ".*pygmalion": "NovelAI-Storywriter",
+        ".*RWKV": "Naive"
     },
     "prompts": {
         "default": "QA",
