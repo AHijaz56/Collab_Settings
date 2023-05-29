@@ -18,6 +18,8 @@
     ],
     "presets": {
         "default": "NovelAI-Storywriter"
+        ".*pygmalion": "NovelAI-Storywriter"
+
     },
     "prompts": {
         "default": "QA",
