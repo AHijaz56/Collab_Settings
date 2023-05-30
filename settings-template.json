@@ -1,7 +1,7 @@
 {
     "dark_theme": false,
     "autoload_model": true,
-    "max_new_tokens": 200,
+    "max_new_tokens": 800,
     "max_new_tokens_min": 1,
     "max_new_tokens_max": 2000,
     "seed": -1,
@@ -35,7 +35,7 @@
     ],
     "presets": {
         "default": "NovelAI-Storywriter",
-        ".*(alpaca|llama|llava|vicuna)": "LLaMA-Precise",
+        ".*(alpaca|llama|llava|vicuna)": "NovelAI-Storywriter",
         ".*pygmalion": "NovelAI-Storywriter",
         ".*RWKV.*pth": "Naive",
         ".*moss": "MOSS"
