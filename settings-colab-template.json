@@ -17,10 +17,11 @@
         "gallery"
     ],
     "presets": {
-        "default": "Default",
-        ".*(alpaca|llama|llava|vicuna)": "NovelAI-Storywriter",
-        ".*pygmalion": "NovelAI-Storywriter", 
-        ".*RWKV": "Naive"
+    "default": "NovelAI-Storywriter",
+    ".*pygmalion": "NovelAI-Storywriter",
+    ".*RWKV": "Naive"
+},
+
     },
     "prompts": {
         "default": "QA",
