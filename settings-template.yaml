@@ -40,7 +40,7 @@ chat_default_extensions:
 - gallery
 presets:
   default: NovelAI-Storywriter,
-  '.*pygmalion': NovelAI-Storywriter,
+  '.*llama': LLaMA-Precise,
   '.*RWKV': Naive
 
 prompt: QA
