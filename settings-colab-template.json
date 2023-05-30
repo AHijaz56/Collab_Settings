@@ -18,9 +18,9 @@
     ],
     "presets": {
         "default": "Default",
-        ".*(alpaca|llama|llava|vicuna)": "LLaMA-Precise",
+        ".*(alpaca|llama|llava|vicuna)": "NovelAI-Storywriter",
         ".*pygmalion": "NovelAI-Storywriter", 
-        ".*RWKV": "Naive.yaml"
+        ".*RWKV": "Naive"
     },
     "prompts": {
         "default": "QA",
